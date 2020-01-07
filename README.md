@@ -11,8 +11,8 @@
 
 ### 数据来源
 
-- [世界银行开放数据）](https://data.worldbank.org.cn/indicator)
-- [联合国开放数据）](https://unstats-undesa.opendata.arcgis.com)
+- [世界银行开放数据](https://data.worldbank.org.cn/indicator)
+- [联合国开放数据](https://unstats-undesa.opendata.arcgis.com)
 
 ### 数据可视化作品
 
